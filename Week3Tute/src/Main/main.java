@@ -11,8 +11,8 @@ public class main {
 		// TODO Auto-generated method stub
 		for (int i = 0; i < 2; i++){
 			Dog doggo = new Dog();
-			System.out.println(cal.getFee(doggo, input));;
+			System.out.println(cal.getFee(doggo, input));
 		}
+		System.out.println("End of Program!!");
 	}
-
 }
